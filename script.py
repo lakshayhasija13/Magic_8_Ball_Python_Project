@@ -2,7 +2,7 @@
 name = "Amit"
 
 #Next, declare a variable question, and assign it to a “Yes” or “No” question you’d like to ask the Magic 8-Ball.
-question = "this is demo ques ?"
+question = "Magic 8-Ball, should I do this project?"
 
 # We want to store the answer of the Magic 8-Ball in another variable, which we’ll call answer. For now, assign this variable to an empty string.
 answer = ""
